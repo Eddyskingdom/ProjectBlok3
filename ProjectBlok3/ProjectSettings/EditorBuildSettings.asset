@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Default/Scenes/samplescene.unity
-    guid: cbfe36cfddfde964d9dfce63a355d5dd
+    path: Assets/MainGame/Scenes/Edgar/EdgarMainMenu.unity
+    guid: c2cc5d136553c044cb1770cf9336f12e
+  - enabled: 1
+    path: Assets/MainGame/Scenes/Edgar/gamescene.unity
+    guid: bf1cf84c25bdb164fbd8545de7bfe455
   m_configObjects: {}
